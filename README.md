@@ -1,78 +1,56 @@
-# Product Name
-> Short blurb about what your product does.
+# Hi, I'm Jonael Lemos! ✨
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=pink&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/gabriela-queiroz-74a8a1100/) [![Gmail Badge](https://img.shields.io/badge/-gabrielaqueirozrm@gmail.com-c14438?style=flatsquare&logo=Gmail&logoColor=white&link=mailto:gabrielaqueirozrm@gmail.com)](mailto:gabrielaqueirozrm@gmail.com)
 
-One to two paragraph statement about your product and what it does.
+## About me
 
-![](header.png)
 
-## Installation
+👩‍💻 <strong>I'm a Fullstack Developer.</strong> 
 
-OS X & Linux:
+👣 I'm 30 Years Old.
 
-```sh
-npm install my-crazy-module --save
-```
+🌍 I live in Fortaleza/CE.
 
-Windows:
+❤ I'm passionate about technology, front-end development, inovation and  possibilities. 🎯🚀
 
-```sh
-edit autoexec.bat
-```
+## Languages and Technologies I use daily:
 
-## Usage example
+**Language:**
 
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/) 
 
-_For more examples and usage, please refer to the [Wiki][wiki]._
+##
 
-## Development setup
+**Front-end:**
 
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/)   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/)   [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/)  [![Styled-components](https://img.shields.io/badge/-Styled%20Components-pink?style=flat-square&logo=styled-components)](https://github.com/gabiqrm/) 
 
-```sh
-make install
-npm test
-```
+##
 
-## Release History
+**Others Technologies:**
 
-* 0.2.1
-    * CHANGE: Update docs (module code remains unchanged)
-* 0.2.0
-    * CHANGE: Remove `setDefaultXYZ()`
-    * ADD: Add `init()`
-* 0.1.1
-    * FIX: Crash when calling `baz()` (Thanks @GenerousContributorName!)
-* 0.1.0
-    * The first proper release
-    * CHANGE: Rename `foo()` to `bar()`
-* 0.0.1
-    * Work in progress
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/) [![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/)
 
-## Meta
+##
 
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
+**Databases:**
 
-Distributed under the XYZ license. See ``LICENSE`` for more information.
+[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/) [![MySQL](https://img.shields.io/badge/-MySQL-a0c4db?style=flat-square&logo=mysql&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/)
 
-[https://github.com/yourname/github-link](https://github.com/dbader/)
+##
 
-## Contributing
+**Operational Systems:**
 
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
+[![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=Linux&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/) [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/)
 
-<!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
+##
+
+**IDE:**
+
+[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/)
+
+##
+
+**Versioning and Communication:**
+
+[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/) [![Discord](https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=Discord&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/)
